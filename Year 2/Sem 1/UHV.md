@@ -43,7 +43,7 @@
 
 > Ethical Foundations: Values help individuals make ethical decisions, particularly in challenging situations, by offering a clear moral framework.
 
-4. **Key Principles in Value Education:
+4. **Key Principles in Value Education:**
 
 > Holistic Development: Aims to develop students' emotional, intellectual, and ethical dimensions.
 
