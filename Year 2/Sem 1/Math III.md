@@ -26,6 +26,11 @@
         - [Example 2: Proving an Inequality](#example-2-proving-an-inequality)
       - [5. **Why Mathematical Induction Works**](#5-why-mathematical-induction-works)
       - [6. **Common Mistakes in Mathematical Induction**](#6-common-mistakes-in-mathematical-induction)
+  - [Module 2 - Relation and Functions](#module-2---relation-and-functions)
+      - [1. **Relations**](#1-relations)
+      - [**Sample Questions on Relations**](#sample-questions-on-relations)
+      - [2. **Functions**](#2-functions)
+      - [**Sample Questions on Functions**](#sample-questions-on-functions)
 
 
 ## Module 1 - Introduction to Set Theory & Proofing Techniques
@@ -213,3 +218,105 @@ Here are detailed notes on **Mathematical Induction**, an essential proof techni
 
 ---
 
+## Module 2 - Relation and Functions
+
+#### 1. **Relations**
+
+   - **Definition**: 
+     - A **relation** \( R \) between two sets \( A \) and \( B \) is a subset of the Cartesian product \( A \times B \). It represents a rule or connection between elements in \( A \) and elements in \( B \).
+     - For example, if \( A = \{1, 2, 3\} \) and \( B = \{x, y, z\} \), a relation \( R \subseteq A \times B \) might include pairs like \( (1, x), (2, y) \), etc.
+
+   - **Types of Relations**:
+     1. **Empty Relation**: No element of \( A \) is related to any element of \( B \).
+     2. **Universal Relation**: Every element of \( A \) is related to every element of \( B \).
+     3. **Identity Relation**: Each element of a set \( A \) is related to itself, meaning \( (a, a) \in R \) for every \( a \in A \).
+     4. **Inverse Relation**: For a relation \( R \subseteq A \times B \), the inverse relation \( R^{-1} \subseteq B \times A \) is defined such that \( (b, a) \in R^{-1} \) if \( (a, b) \in R \).
+     5. **Reflexive Relation**: \( R \) on \( A \) is reflexive if \( (a, a) \in R \) for every \( a \in A \).
+     6. **Symmetric Relation**: \( R \) on \( A \) is symmetric if \( (a, b) \in R \) implies \( (b, a) \in R \).
+     7. **Transitive Relation**: \( R \) on \( A \) is transitive if \( (a, b) \in R \) and \( (b, c) \in R \) imply \( (a, c) \in R \).
+     8. **Equivalence Relation**: A relation that is reflexive, symmetric, and transitive.
+     9. **Partial Ordering Relation**: A relation that is reflexive, antisymmetric, and transitive.
+
+   - **Composition of Relations**:
+     - If \( R \subseteq A \times B \) and \( S \subseteq B \times C \), the **composition** \( S \circ R \subseteq A \times C \) is defined by \( (a, c) \in S \circ R \) if there exists \( b \in B \) such that \( (a, b) \in R \) and \( (b, c) \in S \).
+
+   - **Pictorial Representation (Digraphs)**:
+     - Relations can be represented visually using **digraphs** (directed graphs). Each element is shown as a vertex, and directed edges between vertices represent pairs in the relation.
+
+   - **Properties of Relations**:
+     - **Reflexive**: Every element is related to itself.
+     - **Symmetric**: If \( a \) is related to \( b \), then \( b \) is related to \( a \).
+     - **Transitive**: If \( a \) is related to \( b \) and \( b \) to \( c \), then \( a \) is related to \( c \).
+     - **Antisymmetric**: If \( a \) is related to \( b \) and \( b \) to \( a \), then \( a = b \).
+
+   - **Operations on Relations**:
+     1. **Union**: \( R \cup S \), pairs in either \( R \) or \( S \).
+     2. **Intersection**: \( R \cap S \), pairs in both \( R \) and \( S \).
+     3. **Difference**: \( R - S \), pairs in \( R \) but not in \( S \).
+     4. **Complement**: The complement of \( R \) is all pairs in \( A \times B \) not in \( R \).
+
+   - **Closures of Relations**:
+     - **Reflexive Closure**: Adds pairs \( (a, a) \) for all \( a \in A \).
+     - **Symmetric Closure**: Adds pairs \( (b, a) \) for all \( (a, b) \in R \).
+     - **Transitive Closure**: Adds pairs \( (a, c) \) if \( (a, b) \in R \) and \( (b, c) \in R \).
+
+   - **Warshall's Algorithm**:
+     - An algorithm for computing the transitive closure of a relation represented by an adjacency matrix. Warshall’s algorithm updates the matrix to show all possible paths.
+
+#### **Sample Questions on Relations**
+
+1. **Basic Relation**:
+   - **Question**: Let \( A = \{1, 2, 3\} \) and \( R = \{(1, 1), (2, 2), (3, 3), (1, 2)\} \). Is \( R \) reflexive, symmetric, and transitive?
+   - **Solution**: 
+     - Reflexive: Yes, all elements \( (a, a) \) are present.
+     - Symmetric: No, \( (1, 2) \in R \) but \( (2, 1) \notin R \).
+     - Transitive: No, \( (1, 2) \in R \) and \( (2, 2) \in R \), but \( (1, 2) \notin R \).
+
+2. **Warshall’s Algorithm**:
+   - **Question**: Compute the transitive closure for the matrix:
+     \[
+     \begin{bmatrix}
+     0 & 1 & 0 \\
+     0 & 0 & 1 \\
+     1 & 0 & 0 \\
+     \end{bmatrix}
+     \]
+   - **Solution**: By applying Warshall’s algorithm, we modify the matrix to reflect all transitive paths.
+
+---
+
+#### 2. **Functions**
+
+   - **Definition**:
+     - A **function** \( f \) from set \( A \) to set \( B \) is a relation where each element in \( A \) is related to exactly one element in \( B \).
+     - For example, if \( f: A \rightarrow B \) where \( A = \{1, 2\} \) and \( B = \{x, y\} \), a function might map \( 1 \) to \( x \) and \( 2 \) to \( y \), written as \( f(1) = x \) and \( f(2) = y \).
+
+   - **Types of Functions**:
+     1. **One-to-One (Injective)**: Every element of \( A \) maps to a unique element of \( B \).
+     2. **Onto (Surjective)**: Every element of \( B \) is the image of at least one element in \( A \).
+     3. **One-to-One and Onto (Bijective)**: Each element in \( A \) maps to a unique element in \( B \), and every element in \( B \) has a pre-image in \( A \).
+     4. **Constant Function**: All elements of \( A \) map to a single element in \( B \).
+     5. **Identity Function**: Maps each element to itself, \( f(a) = a \) for all \( a \in A \).
+     6. **Inverse Function**: For a bijective function \( f: A \rightarrow B \), the inverse \( f^{-1}: B \rightarrow A \) undoes \( f \).
+
+   - **Composition of Functions**:
+     - If \( f: A \rightarrow B \) and \( g: B \rightarrow C \), the **composition** \( g \circ f: A \rightarrow C \) is defined by \( (g \circ f)(a) = g(f(a)) \).
+
+#### **Sample Questions on Functions**
+
+1. **Identifying Function Types**:
+   - **Question**: Given \( f: \mathbb{R} \rightarrow \mathbb{R} \) where \( f(x) = 2x + 1 \), is \( f \) injective, surjective, or bijective?
+   - **Solution**: 
+     - Injective: Yes, because each \( x \) in \( \mathbb{R} \) maps to a unique \( f(x) \).
+     - Surjective: Yes, for any \( y \in \mathbb{R} \), there exists an \( x = \frac{y - 1}{2} \) such that \( f(x) = y \).
+     - Bijective: Yes, since \( f \) is both injective and surjective.
+
+2. **Function Composition**:
+   - **Question**: If \( f(x) = 2x \) and \( g(x) = x + 3 \), find \( (
+
+f \circ g)(x) \) and \( (g \circ f)(x) \).
+   - **Solution**: 
+     - \( (f \circ g)(x) = f(g(x)) = f(x + 3) = 2(x + 3) = 2x + 6 \)
+     - \( (g \circ f)(x) = g(f(x)) = g(2x) = 2x + 3 \)
+
+These notes cover the essential concepts, definitions, types, and operations related to **Relations and Functions**, as well as sample problems to reinforce the understanding of each topic. Let me know if you'd like more examples or further clarification on any specific points!
