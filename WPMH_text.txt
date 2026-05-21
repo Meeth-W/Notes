@@ -1,0 +1,564 @@
+1.Numerical question type can 
+consist of programs and design type 
+questions along with numerical 
+2.Faculties are requested to be 
+vigilant while filing the tables and 
+questions(along with CO/RBT 
+level)
+3.Its Mandatory to have atleast  7--
+2 marks,7---5 Marks,7---10 Marks 
+questions for every course
+4.Fields in yellow are to be filled by 
+the faculty 
+5.Under the type column faculty is 
+supposed to choose T/N as per the 
+type of question 
+6.Use the dropdown box in the type 
+column to select between T/N
+7.Table 1-Syllabus Summary (to be 
+filled with reference to syllabus)
+8.Table 2-Modulewise percentage 
+splitup (to be filled with reference 
+to faculty understanding about the 
+module)
+9.Table 3- T/N Percentage Splitup 
+subject wise(Consider all 6 
+modules) Name of Subject :- Workplace Mental Health DEPT :- ALL
+Year(SE/TE/BE):- TE/T.T Subject Code:- HSMC601
+Scheme: CBCGS HME 2020
+Faculty Incharge:- Mr. Tulshiram Kudale, Ms. Bhumika Malhotra, Ms. Tanvi Shah, Ms. Tamanna Upadhayay
+Insructi
+ons to 
+candidat
+e*Mention additional instructions such as use of graph,chart,code book,design book ,IS code etc whicever is applicable
+Sr No. Questions Marks CO RBT PI Type 
+1What is workplace mental health, and why is it important for organizational success?1 CO1 U 9.1.1 T
+2What is the key sign of mental health issues among employees?1 CO1 R 10.2.1 T
+3Mention any one organizational policy that support workplace mental health.1 CO1 R 10.3.2 T
+4Case: An employee with OCD constantly checks their work for errors. How can this affect team productivity?1 CO1 A 10.1.1 N
+5Define stigma in the context of mental health at the workplace.1 CO1 R 9.2.1 T
+6Mention two strategies for managing mental health at work.1 CO1 R 6.1.1 N
+7List two signs of social well-being.1 CO1 R 9.2.2 T
+8What role does leadership play in fostering a healthy work environment?1 CO1 U 6.1.1 T
+9What is the relationship between job satisfaction and mental health?1 CO1 U 10.3.2 T
+10Describe the potential consequences of breaching confidentiality in the context of an employee’s mental health.1 CO1 U 9.2.1 T
+11 A manager observes that an employee has become increasingly irritable and withdrawn. What could be the 
+possible causes?1 CO1 U 9.2.1 N
+12 As a manager, how would you address a situation where an employee shows clear signs of anxiety? Discuss your 
+approach to supporting the employee and involving colleagues.5 CO1 A 9.3.1 N
+13 What happens if we implement a strategy focused on Resilience? 5 CO2 U 2.4.1. T
+14 Describe a scenario in which mental health issues could negatively impact a team's performance. How should the 
+situation be identified and what steps should be taken to address and support the affected team members?5 CO1 R 9.3.1 N
+15Develop a mental health awareness campaign for your organization. What would be the key elements you would 
+focus on?5 CO1 R 10.1.1 T
+16Explain the relationship between physical symptoms and anxiety in patients. How can healthcare professionals or 
+managers in the workplace recognize these physical signs and provide appropriate support or accommodations for 
+affected individuals?5 CO1 U 9.2.4 T
+17Identify ways in which depression disorders can be misdiagnosed or misunderstood in the workplace. As a team 
+leader, how would you ensure that employees receive the proper support and avoid common misconceptions 
+related to depression?5 CO1 A 9.2.1 N
+18Explain how socio-economic factors contribute to the stigma surrounding bipolar disorder. Discuss the role these 
+factors play in shaping public perceptions and how they can impact individuals seeking support or treatment.5 CO1 A 10.1.1 T
+19Explain the significance of implementing mental health awareness programs and training in the workplace, and 
+how they contribute to overall employee well-being and organizational success.5 CO1 U 10.1.1 T
+20
+Describe the concept of "Duty of Care" with an example of a breach related to mental health at work.5 CO1 R 10.1.1 T
+21 Explain the concept of mental health stigma and discuss its impact on workplace dynamics, including how it can 
+affect employee interactions, productivity, and overall organizational culture.5 CO1 U 9.3.1 T
+22
+Provide a short case example where poor mental health affected workplace productivity and how it was managed.5 CO1 A 10.1.1 N
+23If you are an HR manager at a mid-sized company. The company has been facing increasing absenteeism and a 
+decline in employee productivity. After conducting a survey, it is found that mental health issues are a significant 
+concern among employees. As the HR manager, how would you take ethical responsibility in promoting mental 
+health at the workplace? Discuss specific strategies you would implement, ensuring they align with ethical 
+principles of respect, fairness, and responsibility.5 CO1 A 9.3.1 N
+24Ravi is a software engineer working in a leading tech company. The company has been rapidly growing, and with 
+this growth, the workload has increased significantly. Ravi’s team is working on a high-stakes project with tight 
+deadlines. With frequent late-night meetings and excessive overtime, Ravi begins to feel exhausted and 
+emotionally drained. His productivity starts to decline, and he has trouble focusing. He has begun avoiding social 
+interactions and finds it hard to sleep. Despite his hard work, the pressure continues to build, and Ravi feels like he 
+is reaching his breaking point. His manager notices the change in Ravi’s behavior but tells him to push through, 
+stating, "Everyone is under pressure, but this project is critical for the company’s future." QUESTIONS :
+1. What are the key signs of burnout that Ravi is experiencing?
+2. How could Ravi’s manager have handled the situation differently to prevent burnout in the team?
+3. In terms of workplace policy, what steps can the company take to promote mental well-being and prevent 
+burnout among employees?
+4. Explain the role of work-life balance in managing workplace stress. 
+5. Suggest three strategies Ravi could use to manage his stress better.10 CO1 A 9.3.1 N
+25Discuss how time management, regular physical exercise, and meditation contribute to reducing work-related 
+stress. Support your answer with suitable examples.10 CO1 U 6.1.1 T
+26Discuss the potential causes and consequences of job-related stress in high-risk industries. How does this stress 
+affect workers' mental health, and what is the stigma associated with seeking help for mental health issues in such 
+environments?10 CO1 A 9.3.1 T
+27Analyze a situation where poor mental health among employees led to a decline in organizational productivity. 
+Discuss the causes and consequences of these mental health issues, and propose effective strategies and 
+interventions the organization can implement to improve employee well-being and enhance overall productivity.10 CO1 A 10.1.1 N
+28Explain the signs and symptoms of Post-Traumatic Stress Disorder (PTSD) and Obsessive-Compulsive Disorder 
+(OCD). Discuss how these mental health conditions affect individual employees and their overall impact on 
+workplace10 CO1 U 10.3.2 T
+29Evaluate the emotional, social, and psychological well-being of employees and its effect on workplace 
+performance, job satisfaction, and organizational productivity.10 CO1 A 9.2.2 T
+30 Examine an organization’s response to employee mental health during the COVID-19 pandemic. Analyze the 
+benefits of creating a psychologically safe environment for employees.10
+CO1A 9.3.1 N
+31Examine a scenario where employee mental health challenges had a significant impact on organizational 
+productivity. What strategies can be implemented to address these challenges and enhance both employee well-
+being and overall organizational performance?10 CO1 A 9.3.1 N
+32Discuss the common myths and misconceptions about anxiety and depression in the workplace. How can these 
+myths affect employees' mental health and performance? Provide evidence-based facts to counter these 
+misconceptions.10 CO1 U 8.2.2 T
+33Discuss the physical, mental, and social impacts of anxiety disorders on an individual’s daily life, highlighting how 
+these effects influence personal and professional functioning. Compare and contrast anxiety disorders with 
+depression, focusing on their key symptoms and the stigma associated with each condition. 10 CO1 U 10.1.1 T
+34Examine an organization’s response to employee mental health during the COVID-19 pandemic. Analyze the 
+benefits of creating a psychologically safe environment for employees.10CO1A 9.3.1 N
+35 How can setting realistic deadlines contribute to better workplace mental health? 1 CO2 U 9.2.1 T
+36 An employee feels uncomfortable speaking about mental health at work. How can the workplace encourage openness? 1 CO2 R 2.4.1 N
+37 Mention two ways in which companies can support employees' mental health. 1 CO2 R 2.4.1. N
+38 How does Resilience relate to workplace mental health? 1 CO2 U 2.1.1. T
+39 How can flexible work policies improve employee mental health? 1 CO2 A 2.4.1. T
+40 Name two legal protections for employees regarding mental health in the workplace. 1 CO2 A 2.4.3. T
+41 You notice that a team member is frequently absent and disengaged during meetings. What could be a possible mental health 
+concern they are facing?1 CO2 A 2.1.1. N
+42 Your manager introduces a new policy to encourage mental well-being. What are two key aspects it should include? 1 CO2 A 10.2.1 N
+43 A coworker seems disengaged and quiet lately. What are two possible reasons related to mental health? 1 CO2 A 9.2.1 N
+44 What is duty of care? 1 CO2 R 2.4.2. T
+45 How does Well-being relate to workplace mental health? 1 CO2 A 2.1.1. T
+46 An employee feels uncomfortable speaking about mental health at work. How can the workplace encourage openness? 5 CO2 A 6.1.1 N
+47 Why is reducing the stigma around mental health important in the workplace? 5 CO2 U 10.1.1 T
+48 Explain the connection between diversity, inclusion, and workplace mental health policies. 5 CO2 A 3.1.1. N
+49 How would you use Motivation in a real workplace scenario? 5 CO2 A 3.1.2. T
+50 How can an organization create a mentally healthy work environment? Provide at least three strategies. 5 CO2 A 3.1.1. N
+51 Discuss the role of emotional intelligence in managing workplace mental health. 5 CO2 A 2.4.1. T
+52 What legal protections exist for employees dealing with mental health conditions at work? Provide examples. 5 CO2 A 3.1.3. T
+53 What steps can organizations take to support employees returning to work after a mental health-related absence? 5 CO2 A 3.1.1. T
+54 How can leadership play a role in reducing workplace mental health stigma? 5 CO2 A 3.1.2. T
+55 What is a workplace mental health policy, and why is it important? 5 CO2 A 3.1.2. N
+56 How would you use Motivation in a real workplace scenario? 5 CO2 A 3.1.2. T
+57 How does the application of Well-being affect employee engagement and satisfaction? 10 CO2 A 3.1.1. T
+58 Imagine your company wants to launch a mental wellness app for employees. What features should it include? 10 CO2 A 10.1.1 N
+59 What steps should HR take to ensure zero tolerance for workplace bullying? 10 CO2 U 5.3.1. T
+60 What steps should HR take to ensure zero tolerance for workplace bullying? 10 CO2 U 5.3.1. T
+61 Your company wants to introduce a comprehensive workplace mental health policy to support employees.
+Outline the key components of this policy and explain how it will be implemented and evaluated.10 CO2 A 9.1.1 N
+62 How can Well-being be applied in real-world workplace scenarios? 10 CO2 A 3.1.1. T
+63 What are the implications of considering Resilience in a broader workplace context? 10 CO2 E 5.3.1. T
+64 How can we approach the issue of Well-being from a different perspective? 10 CO2 E 5.3.1. T
+65 What questions might challenge our current understanding of Well-being? 10 CO2 E 5.3.1, 
+5.3.2, 
+6.2.1T
+66 How would applying Resilience in a workplace situation change the outcome? 10 CO2 A 3.1.1. T
+67 What decision-making process would you follow if you encountered Resilience in your team? 10 CO2 A 3.1.1. N
+68 State two examples of positive coping mechanisms. 1 CO3 R 10.3.2 T
+69 Define the term “work-life balance.” 1 CO3 R 10.1.2 T
+70 List two common mental health conditions linked to stress. 1 CO3 R 10.1.1 T
+71 Describe the relationship between stress and productivity. 1 CO3 U 10.2.2 T
+72 How does workplace culture contribute to stress? 1 CO3 U 9.2.1 T
+73 Explain the concept of burnout and its causes. 1 CO3 U 10.3.2 T
+74
+Suggest two ways to manage stress during exams1 CO3 U 10.1.1 T
+75 List any two workplace triggers for stress? 1 CO3 R 10.2.1 T
+76 State the difference between eustress and distress. 1 CO3 U 6.1.1 T
+77 Define time management in the context of stress reduction. 1 CO3 R 6.1.1 T
+78 How would you create a supportive environment for a stressed colleague? 1 CO3 A 10.1.1 N
+79 Define coping mechanism and any two coping strategies. 5 CO3 R 9.2.4 N
+80 Define stress and describe its types with examples. 5 CO3 R , U 10.1.1 T
+81 List and explain the physical and behavioral effects of stress. 5 CO3 R , U 9.2.4 T
+82 List the common sources of workplace stress and explain any two. 5 CO3 R , U 9.2.1 T
+83 Discuss the relationship between stress and mental health in high-pressure jobs. 5 CO3 U 10.1.1 N
+84 Define social withdrawal and explain its connection to stress. 5 CO3 R , U 9.2.4 T
+85 List and explain the key elements of effective time management for stress reduction. 5 CO3 R , U 9.2.1 T
+86A manufacturing company introduced a new shift system that requires employees to work irregular hours. Several 
+employees reported feeling fatigued, stressed, and less motivated. The management noticed a decline in 
+productivity and an increase in absenteeism.
+ Question:
+ Evaluate the impact of the new shift system on employees' mental health and suggest measures the company can 
+implement to address these issues.5 CO3 A 9.1.1 T
+87Reflect on a time when you felt stressed due to academic or professional responsibilities. What strategies did you 
+use to cope with the stress?5 CO3 U, A 9.2.1 N
+88Imagine you are a manager in a company. How would you ensure that your team members maintain good mental 
+health?5 CO3 U, A 10.3.3 N
+89A software engineer, Ravi, has been working on a critical project with tight deadlines. Over the past few weeks, he 
+has been experiencing sleep disturbances, irritability, and difficulty concentrating. His productivity has decreased, 
+and he feels overwhelmed.
+ Question: Analyze Ravi's situation and identify the stressors affecting his mental health. Suggest strategies he can 
+adopt to manage his stress effectively.5 CO3 A 9.1.1 T
+90 Explain the emotional and behavioral effects of stress on interpersonal relationships. 5 CO3 U 10.1.1 T
+91Ramesh is a 28-year-old software developer working in a competitive IT firm. Recently, he has been assigned a 
+project with tight deadlines. He often skips meals, works late into the night, and finds it challenging to balance his 
+professional and personal life. Ramesh has started experiencing frequent headaches, fatigue, and difficulty 
+concentrating on tasks. Despite his efforts, his manager has criticized his performance, making him feel 
+undervalued and stressed. Ramesh is now considering whether he should speak to his manager about his struggles 
+or keep pushing himself to meet expectations.
+ Questions (2 Marks Each)
+ What are the key stressors in Ramesh's professional life?
+ Identify the physical and emotional symptoms of stress that Ramesh is experiencing.
+ How does the criticism from Ramesh’s manager contribute to his stress?
+ Suggest two ways Ramesh can improve his work-life balance.
+ Why is it important for Ramesh to communicate his concerns to his manager?10 CO3 A 9.2.1 T
+92Meena works as a customer support executive. She handles complaints from customers daily and often deals with 
+angry or frustrated callers. Recently, she has been feeling emotionally drained and dreads going to work. Meena 
+has started experiencing frequent headaches and feels that her efforts are not appreciated by her supervisor. She is 
+unsure how to cope with the constant pressure and maintain her mental health.
+ Questions (2 Marks Each):
+ 
+ What are the main stressors in Meena’s job?
+ How is Meena’s stress manifesting in her physical health?
+ What could be the possible consequences of Meena’s stress if left unaddressed?
+ Suggest two strategies Meena can use to manage emotional stress.
+ Why is it important for Meena’s supervisor to recognize and address her concerns?10 CO3 A 10.1.1 T
+93 Explain the stages of General Adaptation Syndrome (GAS) as proposed by Hans Selye. 10 CO3 R 9.3.1 T
+94Critically analyze the impact of technology on work-life balance. Does it help in reducing stress, or does it create 
+additional challenges? Support your answer with examples.10 CO3 U 9.3.1 N
+95Reflect on the statement: “A mentally healthy workplace is not a luxury but a necessity.” Do you agree or 
+disagree? Justify your answer with examples.10 CO3 U, A 9.2.1 T
+96 Explain the different types of coping mechanisms (problem-focused, emotion-focused, and avoidance-focused) 
+with examples. Which type do you think is most effective in the workplace, and why?10 CO3 U 10.1.1 T
+97 If you were to create a stress-free workplace, what key elements would you prioritize? 10 CO3 U 9.2.4 N
+98A call center employee faces consistent verbal abuse from customers, leading to increased stress and absenteeism. 
+The company introduces stress management training but sees minimal improvement. 
+ Question: Discuss why stress management training alone might not be effective. Propose a comprehensive plan to 
+address the root causes of stress in this scenario.10 CO3 A T
+99Imagine you are the HR manager of a company where employees frequently report feeling stressed due to tight 
+deadlines and high expectations. Design a comprehensive plan to address workplace stress and improve mental 
+health.10 CO3 U, A 9.2.4 N
+100Amit is a final-year mechanical engineering student who has taken up an internship at a manufacturing company. 
+He struggles to manage his academic responsibilities alongside the demands of the internship. Amit feels 
+exhausted and often skips meals to save time. His grades are declining, and he is worried about completing his 
+internship project on time. Amit feels stuck and unsure how to handle the mounting pressure.
+ Questions (2 Marks Each):
+ 
+ What are the stressors Amit is facing in his academic and professional life?
+ How might Amit’s skipping meals affect his overall stress levels?
+ Suggest two ways Amit can prioritize his tasks effectively.
+ Why is it important for Amit to seek support from his mentors or supervisors?
+ How can time management help Amit reduce his stress?10 CO3 A 10.1.1 T
+101Analyze the relationship between workplace stress and mental health. How can organizations create an 
+environment that minimizes stress while promoting employee well-being?10 CO3 R 8.2.2 T
+102 How would employee turnover change if mental health support systems were enhanced? 1 CO4 R 10.3.2 N
+103 What are the implications of neglecting mental health awareness in workplaces? 1 CO4 U 6.1.1 T
+104 What are sensitive issues in workplace mental health discussions? 1 CO4 U 10.2.2 T
+105 What connections can be made between mental health literacy and employee retention? 1 CO4 U 9.2.1 T
+106 What are the observable indicators of a mentally supportive workplace? 1 CO4 U 10.2.2 T
+107 How can you encourage participation in mental health programs in a scenario involving stigma? 1 CO4 U 10.1.1 T
+108 In a case study of an organization with high turnover rates, how might mental health literacy initiatives improve 
+retention? 1 CO4 A 9.2.4 N
+109 What is mental health literacy? 1 CO4 U 9.1.1 T
+110 Which communication strategies can be applied to manage conflicts arising due to mental health issues? 1 CO4 A 9.2.4 N
+111  What evidence supports the idea that facilitating open dialogue reduces stigma? 1 CO4 R 10.1.2 N
+112 Discuss the importance of facilitating open dialogue in workplaces. 5 CO4 N
+113Analyse the impact of poor communication skills on mental health discussions in the workplace. Propose strategies 
+to improve communication and build trust among employees. 5 CO4 U 10.1.1 T
+114Design a feedback mechanism that allows employees to share their mental health concerns while maintaining 
+confidentiality. How would this promote open dialogue? 5 CO4  C 10.1.1 N
+115You're a teacher, and one of your students, Emily, seems hesitant to participate in class discussions. When you 
+speak with her privately, she reveals she's struggling with social anxiety. Write a brief response (around 200 
+words) on how you would create a supportive classroom environment, encourage Emily's participation, and foster 
+open communication among all students.5 CO4 A 9.1.1 N
+116Role-play exercises are often used to build communication skills. Describe a scenario involving a mental health 
+discussion that could be used for such an exercise. What key skills would the participants learn?5 CO4 A 9.2.1 N
+117Explore the ethical considerations in managing mental health issues in the workplace. Discuss the balance between 
+organizational interests and employee well-being in decision-making processes. 5 CO4 U 10.1.1T
+118 How would you explain the importance of non-verbal communication in mental health discussions? 5 CO4 C 9.1.1 T
+119What are the early signs of mental health struggles that managers should be aware of, and how can early 
+intervention help improve outcomes? 5 CO4 U 10.1.1 T
+120How can engineering students manage their own emotional responses during high-stress projects, and what lessons 
+can be applied to mental health conversations? 5 CO4 A 9.2.1 N
+121 With the increasing integration of technology in the workplace, such as remote work tools and AI, analyse how 
+technology can both positively and negatively affect employees' mental health. 5 CO4 AN 9.1.1 N
+122A mid-sized IT company conducted an internal survey revealing that over 60% of employees lack basic knowledge 
+about mental health and its impact on workplace performance. In response, the company rolled out an e-learning 
+program on mental health literacy, including self-paced courses, webinars, and expert talks. However, only 30% of 
+employees have completed the program, citing reasons like a lack of time and relevance.                                                                                                                                  
+Questions:
+i.What could be the underlying reasons for low participation in the mental health e-learning program?
+ii.How can the organization make the content of the program more engaging and relevant to employees' daily 
+challenges?
+iii.Propose strategies to integrate mental health literacy into regular workplace activities.
+iv.What are the potential benefits for both employees and the organization if mental health literacy improves?
+v.How can the company motivate employees to prioritize mental health education alongside their workload?10 CO4 AN 9.2.1 N
+123What role does empathy play in mental health discussions? Explain how empathy can be integrated into 
+communication strategies to foster a supportive work environment.5 CO4 U 10.1.1 T
+124 What key indicators could be monitored to assess changes in employee attitudes towards mental health after implementing a mental health awareness program? 5 CO4 U 1 0 . 1 . 1 T
+125Reflect on the importance of reducing stigma around mental health in workplaces. How can individuals contribute 
+to this change?10 CO4 E 9.2.1 N
+126Different communication styles can impact how mental health conversations unfold. How can a manager’s 
+communication style (e.g., empathetic vs. directive) affect the outcome of these discussions? Provide examples of 
+effective communication styles that promote openness and trust.10 CO4 A 9.2.5 N
+127 Outline the practical steps that employers can take to promote and sustain good mental health at work. 10 CO4 C 8.2.2 N
+128For a remote team struggling with mental health challenges, develop a strategy to support employee well-being in 
+virtual work environments.10 CO4 C 9.3.1 N
+129How can artificial intelligence tools, such as chatbots or virtual assistants, be used to enhance communication 
+skills and facilitate open dialogue about mental health in the workplace? Discuss both the opportunities and 
+potential ethical challenges.10 CO4 E 9.3.1 N
+130A multinational corporation has decided to make mental health a core part of its organizational culture. It plans to 
+introduce regular workshops, flexible working hours, and an anonymous counseling service. However, senior 
+leaders are concerned about measuring the return on investment (ROI) for these initiatives and ensuring long-term 
+employee engagement.                                                                                                                                                                                                                                                                            
+Questions:
+i.How can the organization effectively integrate mental health initiatives into its culture?
+ii.What metrics can be used to measure the success and ROI of these mental health programs?
+iii.What strategies can ensure sustained employee participation and engagement in these initiatives?
+iv.How can the leadership team actively contribute to normalizing mental health discussions in the workplace?
+v.Suggest innovative ways to tailor these initiatives to meet the diverse needs of a multinational workforce.
+10 CO4 AN 9.2.2 N
+131How can an organization manage absence and facilitate the return to work for employees facing mental health 
+issues?10 CO4 A 9 . 3 . 1 T
+132At Creative Solutions, an advertising firm, mental health issues had been quietly affecting employee performance 
+and morale. The HR department noticed an increase in absenteeism and declining productivity, but employees 
+were reluctant to talk about it. In response, the company organized a series of workshops aimed at enhancing 
+mental health literacy and raising awareness. The workshops included information on identifying mental health 
+issues, understanding the importance of mental well-being, and available resources. These sessions were 
+mandatory for all employees, and managers were encouraged to participate actively.                                                                                                                                                
+Questions:
+i.What role did the workshops play in improving mental health awareness among employees at Creative Solutions? 
+(2)
+ii.How can improving mental health literacy help reduce stigma in the workplace? (2)
+iii.What challenges might employees face when trying to openly discuss their mental health issues in the 
+workplace? (2)
+iv.How can managers facilitate open dialogue after the mental health awareness sessions? (2)
+v.How do you think raising awareness about mental health would impact employee performance in the long term? 
+(2)10 CO4 A 1 0 . 1 . 1 N
+133Examine the role of peer support programs in addressing sensitive mental health issues. What are their advantages 
+and limitations, and how can they be effectively implemented in a workplace?10 CO4 U 9 .2 . 4 T
+134 Explain how positive thinking can help improve employee performance. 1 CO5 U 10.3.3 N
+135How can a leader apply positive thinking to enhance their effectiveness in managing teams, driving performance, 
+and improving workplace culture? 1CO5A 9.2.1 N
+136 What is positive thinking, and how does it relate to mental health? 1 CO5 R 9.3.1 T
+137 What is the relationship between positive thinking and job satisfaction? 1 CO5 U 10.2.1 T
+138You are leading a team with diverse personalities, and there’s ongoing friction between two key team members. 
+How can you use positive thinking to mediate the conflict and foster a harmonious work environment 1CO5A 9.3.1 T
+139Imagine you are part of a team facing a tight deadline, and tensions are rising due to differing opinions on how to 
+approach the project. How can you apply a positive mindset to manage the conflict and keep the team focused on 
+achieving the goal? 1CO5
+A 9.3.3 T
+140Suppose you receive negative feedback from a client regarding your team's work. How can you apply positive 
+thinking to address the feedback constructively and inspire your team to improve? 1CO5A 10.1.1 T
+141 Discuss the role of organizations to create an environment that supports positive thinking for better mental health? 1 CO5 U 6.1.1 N
+142 what is the relation between positive thinking and good leadership skills in the workplace? Explain. 1 CO5 R 6.1.1 N
+143 What is the impact of a positive mindset on employee motivation? 1 CO5 R 9.2.1 N
+144 What is the role of optimism in creating a healthy work environment? 1 CO5 R 9.3.1 T
+145After a major project failure, the team members feel demoralized and are blaming each other for the mistakes. The 
+team leader notices a lack of communication and motivation among the employees, which is affecting their 
+productivity and mental well-being. 
+Questions:
+1.How can the team leader use positive thinking techniques to rebuild the team’s morale and foster better 
+communication?
+2.What steps can the leader take to shift the team’s focus from failure to future opportunities and growth?
+What practical strategies can leadership team and employees use to stay focused and productive while managing 
+the stress of organizational changes?
+Explain how leaders can model positive thinking to inspire resilience and optimism in their teams during 
+challenging projects, and how this approach can help reduce workplace stress and promote a healthier work-life 
+balance 5CO5
+A 9.3.5 T
+146How can positive thinking enhance creativity and innovation in a collaborative work environment, and how can it 
+help employees adapt more effectively to organizational changes such as mergers, restructuring, or new 
+leadership? 5CO5
+R 8.2.2 T
+147Explain how positive thinking can be leveraged as a tool to strengthen resilience and improve mental health in 
+employees navigating continuous workplace changes. Support your explanation with relevant real-life situational 
+examples. 5CO5
+U 9.3.1 N
+148How does maintaining a balanced lifestyle contribute to positive mental health and enhance academic 
+performance? Provide relevant examples. 5CO5R 10.1.1 T
+149Analyze how positive thinking can help employees handle workplace challenges such as conflict, setbacks, or 
+performance pressure. Provide relevant examples. 5CO5A 9.2.1
+150As a project leader facing unexpected obstacles that have frustrated your team, how can you use positive thinking 
+to shift their perspective and view these challenges as opportunities for growth and innovation? Additionally, what 
+strategies can you implement to promote positive thinking and support the team's mental well-being?. 5CO5
+A 6.1.1
+151 Explain the psychological effects of adopting a positive thinking mindset on mental health. 5 CO5 U 9.2.1
+152After a major project failure, the team members feel demoralized and are blaming each other for the mistakes. The 
+team leader notices a lack of communication and motivation among the employees, which is affecting their 
+productivity and mental well-being. 
+Questions:
+1.How can the team leader use positive thinking techniques to rebuild the team’s morale and foster better 
+communication?
+2.What steps can the leader take to shift the team’s focus from failure to future opportunities and growth?
+What practical strategies can leadership team and employees use to stay focused and productive while managing 
+the stress of organizational changes?
+Explain how leaders can model positive thinking to inspire resilience and optimism in their teams during 
+challenging projects, and how this approach can help reduce workplace stress and promote a healthier work-life 
+balance 5CO5
+A 8.2.2 T
+153How can managers foster a positive mindset among employees to boost engagement and job satisfaction, and how 
+can employees use positive thinking to effectively navigate workplace politics while maintaining professional 
+integrity 5CO5
+U 9.2.1 N
+154How can positive thinking enhance creativity and innovation in a collaborative work environment, and how can it 
+help employees adapt more effectively to organizational changes such as mergers, restructuring, or new 
+leadership? 5CO5
+R 8.2.2 T
+155 Discuss how positive thinking can influence an individual’s emotional, social and psychological well-being. 5 CO5 U 10.1.1
+156A newly promoted manager is struggling to gain the trust of their team. Despite their efforts, the team is not 
+responding positively to the new leadership style.
+Questions:
+1. What steps can the manager take to use positive thinking to build trust and improve team dynamics?
+2. How can the manager encourage open communication and create an environment where team members feel 
+valued and respected?
+Explain how positive thinking can help an employee manage multiple responsibilities at work while maintaining a 
+healthy work-life balance and preserving their mental well-being.
+Explain how positive thinking can help a team view failure to meet targets due to unforeseen challenges as a 
+learning experience, and how it can inspire resilience and motivation for future projects. 5CO5
+A 10.1.1 T
+157"You are leading a project in your final year of engineering to create a solar-powered water purification system. 
+The project is for a competition, and your team is facing many challenges like limited time, not enough resources, 
+and technical problems. You have just three weeks left to finish. Some of your team members are feeling stressed 
+and unmotivated, and overall team spirit is low. However, you still need to complete the project successfully." 1.
+How can you, as the team leader, use a positive attitude to encourage your team and help them stay confident while 
+working through the challenges to complete the solar-powered water purification system? 2. Imagine one of your 
+teammates is feeling stressed and unsure because of the technical problems. How can you help them regain their 
+focus and perform better by staying positive? 3.Explain how having a positive mindset in your team can help with 
+creativity and problem-solving, especially when you don’t have enough resources and face technical issues. Use 
+examples from real life, either your own or others. 4.Think about a past experience where being positive helped 
+you overcome difficulties in a project or your studies. How did this attitude impact the final result, and what 
+lessons did you learn that you’re using in this project? 5. As you get closer to the project deadline, how will you 
+make sure your team stays positive to avoid burnout, handle changes, and stay productive? What specific steps will 
+you take to keep everyone motivated and on track? 10CO5
+A 6.1.1 T
+158Discuss the relationship between positive thinking and overall mental well-being, and explain how positive 
+thinking can improve performance in high-pressure environments like work or sports. Using a case study, illustrate 
+how a student struggling with anxiety before exams can apply positive thinking techniques to improve both their 
+mental health and exam performance. 10CO5
+A 8.2.2 N
+159Explain the role of stress management techniques, such as deep breathing, cognitive reframing, and mindfulness, 
+in fostering positive thinking. How do these techniques contribute to improving mental health and work or 
+academic performance? Provide examples of how individuals can apply these techniques in high-pressure 
+situations, such as during exams or at the workplace. Additionally, discuss the potential long-term benefits of 
+consistently using these stress management techniques on overall well-being and productivity. 10CO5
+A 10.1.1N
+160A person faces consistent failure at work, leading to negative thoughts. How can they apply positive thinking 
+strategies to improve both their mental health and work performance? Additionally, describe the role of self-talk in 
+positive thinking. How can individuals change negative self-talk to promote mental health and productivity 10CO5
+A 9.3.1 T
+161In the context of positive thinking, explain how cultivating an optimistic mindset can contribute to psychological, 
+emotional, and social well-being. Illustrate with real-life examples how an individual can apply positive thinking 
+techniques to overcome stress, improve relationships, and foster emotional resilience in challenging situations. 
+Discuss the potential long-term benefits of this practice on overall mental health and social interactions. 10CO5
+U 9.3.1 N
+162Evaluate how the principles of positive thinking can be applied to reduce stress and enhance productivity in 
+engineering students during examinations. Analyze the feedback loop between positive thinking, mental health, 
+and academic performance, and provide a practical guide for maintaining this cycle. How can students use positive 
+thinking strategies to improve their mental well-being and exam performance, ensuring long-term academic 
+success? 10CO5
+A 6.1.1N
+163How can positive thinking techniques be integrated into educational systems to enhance student performance and 
+well-being? Provide a detailed plan for its implementation. 10CO5U, A 9.2.1N
+164Analyze how maintaining a positive outlook during engineering education and project work can contribute to an 
+individual's long-term success and professional growth. Imagine you are leading a sustainable engineering project 
+under tight deadlines and constraints. How can positive thinking foster adaptability and problem-solving in your 
+team? Provide examples from your academic or project experiences. 10CO5
+A 9.2.1 T
+165In the context of positive thinking, explain how cultivating an optimistic mindset can contribute to psychological, 
+emotional, and social well-being. Illustrate with real-life examples how an individual can apply positive thinking 
+techniques to overcome stress, improve relationships, and foster emotional resilience in challenging situations. 
+Discuss the potential long-term benefits of this practice on overall mental health and social interactions. 10CO5
+U 9.3.1 N
+166Explain the impact of negative thoughts on an individual’s performance at work. How can positive thinking 
+techniques be applied to improve both mental health and work output? Provide examples of strategies that could be 
+used to manage negative thoughts in a work setting 10CO5
+U 6.1.1 T
+167Imagine you are a manager overseeing a team where several members are struggling with low morale due to recent 
+setbacks. How would you use positive thinking to motivate your team and help them regain confidence in their 
+work? Explain with real life scenario. 10CO5
+A 10.1.1 T
+168 Define telehealth. Mention two benefits of telehealth mental health services. 1 CO6 U 9.2.1 N
+169 How would you align workplace policies with SDG-8 to promote decent work? 1 CO6 A 6.1.1 N
+170 What is the significance of community resources in mental health? 1 CO6 U 6.1.1 N
+171 Define the term "mental health disparities." 1 CO6 U 9.3.1 N
+172 Describe the benefits of online mental health platforms. 1 CO6 U 8.2.2 N
+173A small business cannot afford expensive mental health services. Suggest two cost-effective ways for the business 
+to support employee mental health.1 CO6 A 6.2.2 N
+174 Define the term "organizational mental health support plan." 1 CO6 U 6.1.1 N
+175 If your workplace lacked mental health resources, what two solutions would you propose to the management? 1 CO6 A 9.2.1 T
+176 Mention any two components of a mental health support plan. 1 CO6 R 10.1.1 N
+177 What are crisis intervention services? 1 CO6 R 9.1.1 N
+178 What is meant by "health for all ages" in SDG-3? 1 CO6 U 8.2.2 N
+179 State five benefits of integrating SDGs into workplace policies. 5 CO6 R 9.3.1 T
+180 Describe five workplace practices that align with SDG-8. 5 CO6 R 9.2.1 N
+181 Discuss how SDG-3 and SDG-8 are interconnected in promoting workplace well-being. 5 CO6 U 9.2.1 T
+182 Explain how SDG-3 promotes universal access to mental health resources. 5 CO6 U 8.2.2 N
+183A multinational corporation adopts SDG-3 and SDG-8 by offering mental health workshops and ensuring fair 
+wages. However, employees in lower-tier roles feel excluded from these initiatives. Identify the challenges and 
+suggest two inclusive strategies to ensure all employees benefit from the initiatives.5 CO6 A 8.2.2 N
+184A corporate office promotes SDG-8 by ensuring decent work opportunities for all, including persons with 
+disabilities. However, the workplace lacks adequate mental health support for these employees. Identify the gaps 
+and propose two measures to provide better mental health support while adhering to SDG-8.5 CO6 A 9.3.1 N
+185A retail company introduces SDG-8 policies, including fair treatment and anti-discrimination practices. Despite 
+this, employees from minority groups report higher levels of workplace stress. Analyze the situation and propose 
+two initiatives to address mental health disparities among employees.5 CO6 A 9.2.1 N
+186 Identify five resources organizations can use to support employee mental health. 5 CO6 R 10.1.1 T
+187
+Explain the importance of sustainable mental health practices.5 CO6 U 9.3.1 N
+188An organization aligns its policies with SDG-8 but struggles to ensure fair treatment for all employees. Identify the 
+possible gaps and propose actions to promote inclusivity and decent work for all.5 CO6 A 9.2.1 N
+189Reflect on a workplace or academic environment you’ve experienced. What changes would you make to improve 
+mental well-being for everyone?5 CO6 A 9.2.1 N
+190 What are SDG - 3. Analyze how SDG-3 can be integrated into workplace mental health policies. 10 CO6 R 6.1.1 N
+191 What are SDG - 8. Illustrate the connection between mental health support and SDG-8 targets. 10 CO6 R, U 9.3.1 T
+192C2C Corporation, a mid-sized technology company, has been experiencing a significant increase in employee 
+turnover and absenteeism. A recent internal survey revealed that 65% of employees feel overwhelmed by their 
+workload, and 40% reported experiencing symptoms of anxiety and burnout. The HR department decided to 
+address the issue by implementing a mental health support plan aligned with the Sustainable Development Goals 
+(SDGs). The plan included establishing an Employee Assistance Program (EAP), conducting mental health 
+awareness workshops, and partnering with a local mental health organization for external counseling services. 
+Additionally, the company introduced flexible work hours and ensured managers received training on identifying 
+and supporting employees with mental health challenges. After six months, the company observed a 25% decrease 
+in absenteeism and a 15% increase in employee satisfaction. However, some employees felt the stigma around 
+mental health persisted, and others suggested more individualized support options.
+ 1. What were the key components of C2C Corporation's mental health support plan?
+ 2. How did C2C Corporation align its mental health initiatives with the Sustainable Development Goals (SDGs)?
+ 3. What positive outcomes were observed after six months of implementing the mental health support plan?
+ 4. Identify two challenges that C2C Corporation still faced after introducing the mental health initiatives.
+ 5. Suggest one additional measure the company could take to further improve its mental health support plan.10 CO6 A 10.1.1 N
+193Swift Transport, a global logistics company, aimed to align with SDG-8 (Decent Work and Economic Growth) by 
+improving working conditions for its drivers. The company reduced long shifts, increased rest breaks, and 
+introduced mental health support programs. However, many drivers still experience high levels of stress due to 
+uncertainty in job stability and fluctuating wages. Some drivers avoided taking breaks out of fear of reduced 
+earnings, making it difficult for the company to enforce well-being policies. 
+ 1. What key workplace issue was Swift Transport trying to address?
+ 2. Why did some employees struggle to benefit from the new mental health policies?
+ 3. How does this case illustrate the link between financial stability and mental well-being?
+ 4. What does the reluctance to take breaks suggest about workplace incentives?
+ 5. How could Swift Transport ensure employees prioritize mental health without financial concerns?10 CO6 A 9.3.1 N
+194With the rise of the gig economy, many workers lack access to employer-provided mental health resources. What 
+innovative solutions can be introduced to support their well-being?10 CO6 A 8.2.2 T
+195Your organization wants to set up a sustainable mental health resource hub for employees. What key elements 
+should be included to ensure long-term accessibility and effectiveness?10 CO6 A 6.1.1 N
+196How does workplace inclusion (e.g., gender, disability, ethnicity) impact mental health, and how can organizations 
+align inclusion policies with SDG-3 and SDG-8?10 CO6 U,A 9.3.1 N
+197 Propose a framework for integrating SDG-3 and SDG-8 into workplace policies 10 CO6 R 10.1.1 T
+198Textile Trends Manufacturing, a large-scale factory, noticed a rise in workplace stress and conflict among 
+employees. Many workers reported difficulty in managing their workload, and some even faced physical health 
+issues due to stress. The management decided to introduce internal mental health resources, including an in-house 
+counselor and peer support groups. Additionally, employees were encouraged to take short mental wellness breaks 
+during their shifts. Despite these efforts, some employees hesitated to seek help due to stigma, and others found it 
+difficult to balance their workload with the wellness initiatives.
+ 1. What internal mental health resources did Textile Trends Manufacturing introduce?
+ 2. How did the company encourage employees to manage workplace stress?
+ 3. What challenges did employees face in accessing the mental health resources?
+ 4. Why might some employees hesitate to use mental health support services?
+ 5. Suggest one way Textile Trends Manufacturing could improve its mental health support system.10 CO6 A 9.3.1 N
+199At Tech Innovations Software Solutions, employees frequently worked overtime to meet tight project deadlines. 
+Over time, the management noticed an increase in absenteeism and a decline in overall productivity. A company-
+wide survey revealed that many employees were experiencing burnout, anxiety, and lack of motivation. To address 
+this, Tech Innovations Software Solutions introduced a flexible work policy, mandatory mental health breaks, and 
+stress management workshops. While some employees benefited, others continued working overtime out of fear of 
+missing promotions. The company struggled to create a culture where taking breaks was not seen as a sign of 
+weakness.
+  1. What underlying issue did LMN Software Solutions attempt to address?
+ 2. How did the company's new policies aim to improve employee well-being?
+ 3. Despite the new initiatives, why did some employees not fully benefit?
+ 4. What does this case suggest about workplace culture and mental health?
+ 5. How could LMN create an environment where employees feel safe prioritizing mental well-being?10 CO6 A 10.1.1 T
+200Creative Pulse Corporation developed a comprehensive mental health support plan that included free counseling, 
+stress management training, and peer support groups. While these initiatives were well-received, a significant 
+number of employees hesitated to participate, fearing their mental health records might affect career growth.
+ The HR department assured employees that their information would remain confidential, but skepticism remained. 
+Some employees felt that discussing mental health at work could make them seem less capable, leading to a lack of 
+engagement with the support programs. 
+ 1. Why did Creative Pulse Corporation introduce a mental health support plan?
+ 2. What prevented some employees from fully engaging with the available resources?
+ 3. How does this case reflect the role of trust in workplace mental health initiatives?
+ 4. What does employee hesitation reveal about perceptions of mental health in professional settings?
+ 5. What strategies couldCreative Pulse Corporation use to build trust and encourage participation?10 CO6 A 6.1.1 N

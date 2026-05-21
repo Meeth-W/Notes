@@ -403,22 +403,56 @@ plt.show()
 
 **WEKA** (Waikato Environment for Knowledge Analysis) is a GUI-based Java software for data mining.
 
+### Sample ARFF File (`weather.nominal.arff`)
+To perform experiments in WEKA, you need data. WEKA uses the Attribute-Relation File Format (.arff). Below is the code for a standard sample dataset (Weather dataset) that you can save as an `.arff` file and load into WEKA.
+
+```arff
+@relation weather.symbolic
+
+@attribute outlook {sunny, overcast, rainy}
+@attribute temperature {hot, mild, cool}
+@attribute humidity {high, normal}
+@attribute windy {TRUE, FALSE}
+@attribute play {yes, no}
+
+@data
+sunny,hot,high,FALSE,no
+sunny,hot,high,TRUE,no
+overcast,hot,high,FALSE,yes
+rainy,mild,high,FALSE,yes
+rainy,cool,normal,FALSE,yes
+rainy,cool,normal,TRUE,no
+overcast,cool,normal,TRUE,yes
+sunny,mild,high,FALSE,no
+sunny,cool,normal,FALSE,yes
+rainy,mild,normal,FALSE,yes
+sunny,mild,normal,TRUE,yes
+overcast,mild,high,TRUE,yes
+overcast,hot,normal,FALSE,yes
+rainy,mild,high,TRUE,no
+```
+
 ### Steps to Assess Performances in WEKA:
-1. **Load Data**: Open the `WEKA Explorer`. Click `Open file...` under the Preprocess tab to load an `.arff` or `.csv` dataset (e.g., weather.nominal.arff).
+1. **Load Data**: 
+   - Open the `WEKA Explorer`. 
+   - Click `Open file...` under the **Preprocess** tab to load your `.arff` dataset.
+   - *Note: Once loaded, WEKA displays a summary of the attributes, including their minimum, maximum, mean, and standard deviation (for numeric attributes) or counts (for nominal attributes).*
 2. **Association Mining (Apriori)**:
    - Go to the **Associate** tab.
    - Choose `Apriori` as the algorithm.
-   - Adjust parameters (like `lowerBoundMinSupport` or `minMetric`).
-   - Click **Start**. Analyze the discovered rules in the output panel.
+   - Adjust parameters (like `lowerBoundMinSupport` or `minMetric`) by clicking on the algorithm name.
+   - Click **Start**. Analyze the discovered rules in the output panel (e.g., `outlook=overcast 4 ==> play=yes 4`).
 3. **Classification (Decision Tree / Naive Bayes)**:
    - Go to the **Classify** tab.
    - Choose a classifier (e.g., `trees -> J48` for C4.5 Decision Tree, or `bayes -> NaiveBayes`).
-   - Select Test Options (e.g., 10-fold cross-validation).
+   - Select Test Options (e.g., 10-fold cross-validation or Use training set).
+   - Select the target attribute (e.g., `play`) from the dropdown.
    - Click **Start**. Review the Accuracy, Precision, Recall, and Confusion Matrix in the results window.
 4. **Clustering (K-Means)**:
    - Go to the **Cluster** tab.
    - Choose `SimpleKMeans`.
    - Click the parameters box to set `numClusters` (e.g., 3).
+   - Select `Classes to clusters evaluation` and choose your class attribute if you want to compare clusters to actual classes.
    - Click **Start**. Evaluate the Sum of Squared Errors (SSE) and cluster assignments in the output.
 
 ---

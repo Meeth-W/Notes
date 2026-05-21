@@ -1,0 +1,33 @@
+# Module 6: Software Testing with Quality Assurance - Topics Covered
+
+- **Software Complexity Metrics**
+  - Cyclomatic Complexity calculation and formula (V(G) = E - N + 2).
+  - Construction of Control Flow Graphs (CFG).
+  - Identification of independent paths and predicate nodes.
+- **Testing Methodologies**
+  - **White Box Testing (Structural Testing)**: Techniques, use cases, code logic validation, and limitations.
+  - **Black Box Testing (Behavioral Testing)**: Techniques, requirements validation, input/output evaluation, and defect detection capabilities.
+- **Software Quality Models**
+  - **McCall's Quality Factor Model**: 
+    - Product Revision (Maintainability, Flexibility, Testability).
+    - Product Transition (Portability, Reusability, Interoperability).
+    - Product Operations (Correctness, Reliability, Efficiency, Integrity, Usability).
+- **Levels of Testing (Strategic Approach)**
+  - **Unit Testing**: Testing individual components/functions in isolation (often White Box).
+  - **Integration Testing**: Top-Down integration using stubs and Bottom-Up integration using drivers.
+  - **System Testing**: Types of testing including Recovery Testing, Security Testing, Stress Testing, and Performance Testing.
+  - **User Acceptance Testing (UAT)**: Alpha testing (developer site) and Beta testing (user site) environments.
+- **Test Case Design Techniques**
+  - **Equivalence Partitioning (EP)**: Dividing input domains into valid and invalid partitions to reduce the number of test cases.
+  - **Boundary Value Analysis (BVA)**: Focusing on the edges (min, just below min, max, just above max) of input domains for rigorous defect detection.
+- **Specialized Testing Types**
+  - **Regression Testing**: Re-running test cases to ensure new updates or bug fixes do not break existing functionality.
+- **Test Automation**
+  - Test automation strategy utilizing the Test Automation Pyramid (Unit, API, UI levels).
+  - Tool selection for various automation needs (Selenium/Cypress for UI, Postman/RestAssured for API, JMeter for Performance, OWASP ZAP for Security).
+  - Criteria for evaluating suitable vs. unsuitable scenarios for automation.
+- **Software Quality Assurance (SQA) Practices**
+  - The role of SQA activities in process definition, metrics collection, and reducing defect density.
+  - **Formal Technical Reviews (FTRs)**: Peer reviews for early defect prevention and knowledge sharing.
+  - **Software Audits**: Process governance, configuration audits, and compliance verification.
+  - Designing comprehensive compliance checklists for industry standards, regulatory requirements, and internal SDLC processes.
