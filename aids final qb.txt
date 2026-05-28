@@ -1,0 +1,115 @@
+MODULE 1 
+1. Summarize the concept of Data Science and clarify two key terminologies used in data analysis. 2. Identify the concept of a dataset and recognize its structure in tabular form used for analysis. 3. Use the factors contributing to the increasing importance of Data Science to illustrate its role in  modern applications. 
+4. Demonstrate the concept of an intelligent agent and show its interaction with the environment. 5. Apply the concept of intelligence in Artificial Intelligence to illustrate its role in decision-making  systems. 
+6. Analyze the concept of features and examine how they are used in machine learning models. 7. Differentiate types of analytics and evaluate how raw data is converted into meaningful insights. 8. Use the concept of Data Science to illustrate how its key components contribute to extracting  meaningful insights from raw data. 
+9. Differentiate various types of data and categorize their characteristics with suitable real-world  examples. 
+10. Utilize the Data Science workflow to show how each stage contributes to solving data-driven  problems, emphasizing the role of data preparation and analysis. 
+11. Differentiate types of intelligence and infer their significance in Artificial Intelligence systems,  highlighting their influence on system behavior. 
+12. Use the Data Science process model to show how data is systematically collected, cleaned, and  analyzed to generate meaningful outcomes in practical applications. 
+13. Demonstrate different types of analytics and show how they help in transforming raw data into  actionable insights for decision-making. 
+14. Utilize the concept of agents and environments to show how intelligent systems perceive inputs  and perform actions in response to their surroundings. 
+15. Deduce the interdisciplinary nature of Data Science and infer how its various components work  together to extract meaningful insights from structured and unstructured data. Discuss their  role in supporting data-driven decision-making. 
+16. Differentiate between various forms of data by categorizing their characteristics, formats, and  storage approaches. Discuss their significance and challenges in real-world data science  applications. 
+17. Utilize the stages of the Data Science workflow to illustrate how a problem is formulated, data is  collected, prepared, analyzed, and results are communicated. Discuss the importance of each  stage in ensuring reliable outcomes. 
+18. Demonstrate different types of analytics and show how they contribute to understanding past  trends, identifying causes, predicting future outcomes, and supporting decision-making  processes. 
+19. Deduce the concept of Artificial Intelligence and differentiate its types based on capabilities and  functionalities. Discuss their characteristics and relevance in real-world intelligent systems. 20. Utilize the structure of intelligent agents to illustrate how agent architecture and programs  interact with inputs and actions. Discuss the role of rationality and performance measures in  intelligent behavior. 
+21. Differentiate various properties of AI environments and infer how these properties influence the  design, behavior, and performance of intelligent systems with suitable examples.
+MODULE 2  
+1. Interpret the concept of Exploratory Data Analysis and explain why it is considered an essential  step before building machine learning models. 
+2. Utilize data preprocessing techniques to illustrate why cleaning, transforming, and preparing  raw data are necessary during Exploratory Data Analysis. 
+3. Use the concept of standardization to show how scaling features improves consistency and  model performance during Exploratory Data Analysis. 
+4. Demonstrate a suitable method for handling missing values in a dataset containing incomplete  records during Exploratory Data Analysis. 
+5. Analyze mean imputation and examine one important limitation of using it for datasets having  skewed data distribution. 
+6. Differentiate structured and unstructured data, and infer their suitability for storage, processing,  and analytical applications. 
+7. Evaluate the strategy of removing rows with missing values in a customer dataset and identify  one major drawback of this approach. 
+8. A dataset contains missing values in the income column, where the probability of missing  income is higher for younger individuals but does not depend on the actual income value.  Analyze the missing data mechanism present and justify your conclusion with suitable  reasoning. 
+9. Utilize different techniques used to handle missing values and illustrate their suitability with  appropriate examples from real-world datasets. 
+10. Demonstrate how summary statistics such as mean, median, variance, and quartiles help in  understanding data patterns during Exploratory Data Analysis. 
+11. Examine the need for data standardization in machine learning applications and infer how it  improves model training and feature comparability. 
+12. Employ visualization techniques to identify patterns, trends, and anomalies during Exploratory  Data Analysis. 
+13. A startup removes rows with missing values and notices a decline in model accuracy. Implement  suitable preprocessing methods to improve data quality and model performance. 14. A loan approval system shows unfair predictions for certain applicants. Investigate how  Exploratory Data Analysis can identify biased data and analyze its effect on fairness in  predictions. 
+15. A banking dataset used for credit scoring contains missing income values and extreme outliers.  Assess the dataset and conclude suitable imputation and standardization techniques to improve  data quality and model reliability. 
+16. Implement a complete data preprocessing workflow used in Exploratory Data Analysis, showing  how data cleaning, transformation, handling missing values, and scaling prepare the dataset for  model building. 
+17. Evaluate various methods of handling missing values and conclude their impact on data quality,  model accuracy, and dataset reliability. 
+18. Apply visualization techniques such as histogram, scatter plot, and box plot to prevent incorrect  outlier removal during data preprocessing.
+19. A hospital dataset contains missing, inconsistent, and highly skewed patient records. Assess the  dataset and conclude a suitable Exploratory Data Analysis and preprocessing strategy to  improve decision-making accuracy. 
+20. Utilize a real-time dataset example to demonstrate the importance of Exploratory Data Analysis  in supporting accurate and data-driven decision making. 
+21. A smart-healthcare system relies on patient data for decision-making. Examine how improper  Exploratory Data Analysis can affect ethical considerations, safety outcomes, and system  reliability. 
+MODULE 3 
+1. Apply feature selection in the context of data modelling and discuss how selecting the most  relevant input variables helps in improving model accuracy 
+2. Apply your understanding of supervised learning to identify the independent and dependent  variables in a given supervised learning model, and explain how each variable contributes to  the prediction process.. 
+3. Describe any two methods of Dimensionality Reduction and give examples for the same. 4. Analyze the concept of multicollinearity in a dataset and illustrate with an example how  highly correlated independent variables can affect the performance of a predictive model.. 5. Analyze a dataset to determine any two possible causes of outliers and explain how these  unusual values can influence the interpretation of the data. 
+6. Given a dataset with multiple correlated variables, apply factor analysis to identify the key  underlying factors influencing the data. 
+7. Analyze the value of a correlation measure to interpret the relationship between two  variables and conclude whether it is positive, negative, or negligible. 
+8. Determine the role of dimensionality reduction in improving model performance. 9. Illustrate the relationship between independent and dependent variables with a suitable  example. 
+10. Compare correlation and multicollinearity in data analysis, and explain their differences with  suitable examples. Also discuss how each affects the interpretation and performance of a  predictive model.. 
+11. Analyze the results obtained from factor analysis and explain how the extracted factors  represent the relationships among the original variables. 
+12. Demonstrate how dimensionality reduction helps in handling high-dimensional data. 13. Summarize the importance of feature engineering in a data pipeline. 
+14. Determine and explain the various methods used for the detection of outliers in a dataset,  and discuss how each method helps in identifying unusual data points during data analysis. 15. Analyze the complete process of feature selection and its significance in predictive  modelling. 
+16. Examine the different techniques used for treating outliers in a dataset, such as removal,  transformation, capping, imputation, and binning, and critically analyze how each technique  affects data quality, model accuracy, statistical interpretation, and the overall reliability of  the data analysis process.
+17. Design a complete data preprocessing workflow that incorporates both feature engineering  and outlier treatment, and explain how each step in the workflow helps in improving data  quality, enhancing model performance. 
+18. Justify the need for feature engineering in building scalable data pipelines, and explain how  creating meaningful features from raw data can improve processing efficiency, support  large-scale data handling, enhance model performance, and ensure better decision-making  in real-world applications. 
+19. Analyze a high-dimensional dataset scenario and recommend suitable dimensionality  reduction techniques. 
+20. Develop a conceptual model showing the relationship between variables using correlation  analysis. 
+21. Analyze the role of feature selection techniques in reducing overfitting and improving model  generalization. 
+22. Illustrate the complete factor analysis procedure, including assumptions, extraction  methods, and interpretation of factors. 
+MODULE 4 
+1. Apply your understanding of data visualization to explain how graphical representation  techniques are used in data analysis, and describe the primary objective of using data  visualization for interpreting data effectively. 
+2. "Relate any two benefits of data visualization and  
+explain how they support data-driven decision making?" 
+3. Demonstrate how a histogram can be used to represent the type of data most suitable for this  graphical method, and justify why it effectively displays the distribution of that data.. 4. Apply a countplot in Exploratory Data Analysis (EDA) to a given dataset and explain how it helps  in understanding the distribution of categorical data. 
+5. "Summarize what insight does a boxplot provide about a dataset? 
+6. "Examine why is it important to visualize data before applying machine learning algorithms? 7. Identify any two common data visualization techniques used in data science. State one  limitation of data visualization 
+8. "Explain the importance of data visualization in Artificial Intelligence and Data Science. 9. Analyze how visualization techniques assist in understanding patterns, trends, and model  performance." 
+10. Consider a real-world dataset (e.g., customer purchase or healthcare data). Develop an EDA  strategy using appropriate visualization techniques to explore the dataset, detect patterns and  anomalies, and provide meaningful insights. Justify your approach. 
+11. Apply this visualization technique to explain how it represents data distribution and frequency  patterns with an example." 
+12. "Differentiate between histogram and countplot. 
+13. Analyze their usage with suitable examples based on the type of data and interpretation." 14. "Examine how boxplots are used to identify outliers and analyze data spread. 15. Apply the concept of quartiles and IQR in interpreting a dataset using a boxplot." 16. "Apply appropriate data visualization techniques for both categorical and numerical data.
+17. Justify your choice of plots with suitable examples." 
+18. "Examine the significance of data visualization techniques in handling large datasets. 19. Apply suitable methods to show how visualization improves data interpretation and decision making." 
+20. "Analyze the importance of data visualization across different stages of the data science life  cycle. 
+21. Examine how visualization supports data understanding, preprocessing, model building, and  communication with suitable examples." 
+22. "Identify the different stages involved in “looking at data” using visualization techniques. 23. Evaluate the effectiveness of these stages in improving data quality, insight generation, and  decision-making." 
+24. "Compare and contrast histogram, countplot, and boxplot based on data type, visualization  structure, and interpretation. 
+25. Analyze their suitability for different use cases with appropriate examples." 26. "Identify how data visualization techniques help in identifying patterns, trends, and anomalies in  real-world datasets. 
+27. Apply suitable plots to demonstrate these insights with examples." 
+28. Construct a visualization-based approach for improving machine learning model performance by  selecting features, analyzing errors, and validating the model. Explain and justify each step. 29. "Construct an effective visualization strategy for a dataset containing both numerical and  categorical variables. 
+30. Justify your choice of visualization techniques for different data types and analytical goals." 
+MODULE 5  
+1. Explore the concept of state space representation in the 8-puzzle problem and identify its  key elements such as initial state, goal state, and operators with a brief explanation. 2. Verify the constraints of the 8-Queens problem and Check how they ensure that no two  queens attack each other on the chessboard. 
+3. Identify how nodes are expanded level by level in Breadth First Search (BFS) and illustrate  how it finds the shortest path in a simple scenario.  
+4. Examine the working of Depth First Search (DFS) and explain why it may fail to find optimal  solutions in certain problem spaces. 
+5. Distinuish the role of heuristic functions in A* search and describe how they influence  search efficiency and optimality. 
+6. Implement the concept of hill climbing algorithm to explain how solutions improve  iteratively, and describe one situation where it gets stuck at a local optimum. 7. Analyze the role of fitness function in genetic algorithms and explain how it helps in  selecting better solutions during evolution. 
+8. Solve the concept of state space formulation to the 8-puzzle problem and illustrate how  operators transform the initial state toward the goal state. how the choice of  representation affects search efficiency. 
+9. Conceptualize the 8-Queens problem and how constraints eliminate invalid solutions using  backtracking. Explain how this approach improves efficiency compared to brute force.
+10. Configure Breadth First Search (BFS) to a simple graph problem and illustrate step-by-step  node expansion. why BFS guarantees optimal solutions in unweighted graphs. 
+11. Analyze Depth First Search (DFS) by Examine it to a problem graph and explain situations  where it may fail to find optimal or complete solutions. 
+12. Use the concept of A* search algorithm to a pathfinding problem by computing evaluation  function values and selecting nodes. Interpret how heuristic accuracy impacts optimality. 13. Strategize the Travelling Salesman Problem formulation to a small example and check the  different approaches to minimize travel cost. Discuss limitations of exact methods. 14. Apply hill climbing algorithm to an optimization problem and demonstrait how local maxima  and plateau conditions affect solution quality. 
+15. Define the complete problem formulation of the 8-puzzle problem by defining states,  operators, transition model, and goal test. Evaluate how heuristic techniques improve  solution efficiency. 
+16. Justify the 8-Queens problem using backtracking and constraint satisfaction techniques.  Evaluate its efficiency and scalability for larger board sizes. 
+17. Evaluate BFS and DFS algorithms to a given graph problem and perform a detailed  comparative analysis based on completeness, optimality, and complexity. 
+18. Explore A* search algorithm to a real-world pathfinding problem and Explain how different  heuristic functions influence performance and optimality. 
+19. Assess suitable AI techniques on Travelling Salesman Problem such as heuristics or genetic  algorithms to obtain near-optimal solutions. Justify your approach. 
+20. Analyze hill climbing and genetic algorithms for solving optimization problems. Compare  their performance, advantages, and limitations in different scenarios. 
+21. Compare and contrast informed and uninformed search techniques using examples such as  BFS, DFS, and A*. Justify the selection of appropriate algorithms for real-world problems. 
+MODULE 6  
+1. Utilize the concept of sustainable agriculture to illustrate its key objectives related to  environmental protection, economic profitability, and social equity. 
+2. Apply the concept of sustainable agriculture to classify its three pillars and demonstrate their  significance in achieving agricultural sustainability. 
+3. Describe the concept of precision farming and explain how it improves resource utilization. 4. Compare the differences between local and global food systems and illustrate their key  characteristics in terms of production, distribution, and consumption. 
+5. Apply data science techniques to demonstrate how data collection improves agricultural  decision-making. 
+6. Demonstrate the use of data science techniques in logistics to improve efficiency in food supply  chains. 
+7. Illustrate the impact of climate change on agriculture and examine its effect on food security. 8. Examine challenges such as food wastage and supply chain inefficiencies and justify the need for  data-driven solutions. 
+9. Examine the dimensions of sustainable agriculture and analyze its key roles in ensuring  environmental sustainability, economic profitability, and social equity.
+10. Analyze the definition and dimensions of food security and examine the role of sustainable  agriculture in ensuring long-term food availability. 
+11. Investigate different types of food systems and analyze the differences between global and local  food systems in terms of efficiency and sustainability. 
+12. Demonstrate the concept of food systems by explaining its definition and applying its elements  in real-world agricultural scenarios. 
+13. Examine the components of the food system and analyze their interdependence in ensuring  food supply. 
+14. Investigate the challenges in feeding a growing population such as climate change, water  scarcity, and food wastage, and analyze their impact on agriculture. 
+15. Infer the dimensions of sustainable agriculture and deduce how its key roles contribute to  environmental protection, economic growth, and social equity. 
+16. Deduce the concept of food security and differentiate its dimensions, and infer the contribution  of sustainable agriculture in ensuring food availability. 
+17. Differentiate between global and local food systems and categorize their characteristics based  on production, distribution, and sustainability. 
+18. Use the elements of food systems to illustrate how food flows from production to consumption  in real-world agricultural practices. 
+19. Solve issues in food supply chains by using the components of production, processing,  distribution, and consumption to improve overall efficiency. 
+20. Identify challenges such as climate change, water scarcity, and food wastage and differentiate  their impact on agricultural productivity and sustainability. 
+21. A farming community is facing declining crop yield due to unpredictable weather conditions,  inefficient resource utilization, and lack of proper decision-making strategies. The farmers have  access to data from soil sensors, weather stations, and market trends. Use appropriate data driven techniques such as precision agriculture and predictive analytics to improve agricultural  productivity and resource management in this scenario.
